@@ -261,12 +261,14 @@ button {
   display: inline-block;
   padding: 10px;
   color: whitesmoke;
-  background-color: black;
+  background-color: #ff4464;
   text-align: center;
   cursor: pointer;
   width: -webkit-fill-available;
   font-size: 20px;
-  border-radius: 5px;
+  font-weight: bold;
+  border-radius: 10px;
+  border-style: hidden;
   margin: 2%;
 }
 
